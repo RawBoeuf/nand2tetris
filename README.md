@@ -3,7 +3,8 @@
 
 ## Part 1: Build a Modern Computer from First Principles: From Nand to Tetris
 ![Logic Gates](https://img.shields.io/badge/Logic%20Gates-Boolean%20Algebra-orange?style=flat-square)
-This part focuses on the Hardware design part with using their Hardware Simulator.
+
+This part focuses on the Hardware design part of their building a Computer from scratch, using their Hardware Simulator.
 ## To Do List:
 - [x] Module 1: Boolean Functions and Gate Logic - [Project Files](/projects/01/)
 **Brief Summary:**
