@@ -18,9 +18,11 @@ After introducing us to the basics of boolean algebra and truth tables in the in
 
 Now that we've implemented the numerous elementary logic gates from Project 1, we will move on to designing the core logic unit of the CPU in modern computing architecture: the Arithmetic Logic Unit. First, we implement the HalfAdder chip which takes in two inputs: **'a'** and **'b'** and dispenses to outputs: **sum** and **carry**. FullAdder takes in three inputs instead of two. Add16 takes two 16 bit inputs. Inc16 wants you to increment the input by 1. For solutions see: [Project Files](/projects/02/), once again I ***HEAVILY*** recommend you try to explore truth table equivalencies before looking at my solutions and at the very least look at the logical diagrams and explanations that Noam and Shimon provide.
 
-- [ ] **Module 3: Memory**
+- [x] **Module 3: Memory** - Solutions: [Project Files](/projects/03/)
 
 **Brief Summary:**
+
+The arithmetic logic unit (ALU) is now implemented so we can start moving onto other parts of the computer like the registers and RAM. I didn't watch all the videos before attempting this, so I ended up taking a lot more time than I should have. If you don't want to go through the head slamming insanity that I went through to figure out the logic behind these chips on a fundamental level before translating it into actual HDL, I'd highly recommend you actually watch the videos. Shimon's explanation of the logic was very eye-opening as I realized in hind-sight I could've figured this out much quicker if I had this explained to me in such an easy way. If you're still in need of help after watching the videos, see these files for reference: [Project Files](/projects/03/)
 
 - [ ] **Module 4: Machine Language**
 
